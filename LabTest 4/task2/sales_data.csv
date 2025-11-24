@@ -1,0 +1,11 @@
+transaction_id,customer_name,transaction_amount,region
+T001,Asha,2500,North
+T002,Rohit,,South
+T003,Meena,4200,East
+T004,Pranav,3800,West
+T005,,2100,North
+T006,Maya,5000,East
+T007,Kiran,,South
+T008,Arjun,3000,West
+T009,Neha,4500,East
+T010,Deepak,,North
